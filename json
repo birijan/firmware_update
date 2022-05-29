@@ -1,21 +1,28 @@
 {
-	
-	"applist": "",
-	"iFVersion": "",
-	"param": [{
-		"paramKey":"",
-		"paramValue":""
-	}],
-	"ret":"1", 
-	"retInfo":"",
-	"updateinfo": [{  
-		"issystem":1,
-		"packagesize":"",
-		"updatemd5":"3389a0b30e05ef6613ccbdae5d9ec0bd",
-		"updatetype":"2",
-		"updateurl":"http://ipv4.download.thinkbroadband.com/200MB.zip",
-		"updateversion":"",
-		"versiontype":1
-	}]
+    
+    "applist": "{\"appVersions\": [{\"packageName\": \"np.com.livetv\",\"type\":1,\"version\": \"1.0\",}],\"app_name\": \"LiveTV\",\"iFVersion\":\"123\",\"params\":[{\"paramKey\":\"exInterval\",\"paramValue\":\"100\"},{\"paramKey\":\"succInterval\", \"paramValue\":\"100\"}]}",
+    "iFVersion": "",
+    "param": [{
+        "params":[{
+        "paramKey":"exInterval",
+        "paramValue":"100"
+    },
+    {
+        "paramKey":"succInterval",
+        "paramValue":"100"
+    }
+    ]
+    }],
+    "ret":"1",
+    "retInfo":"",
+    "updateinfo": [{
+        "issystem":1,
+        "packagesize":"",
+        "updatemd5":"3389a0b30e05ef6613ccbdae5d9ec0bd",
+        "updatetype":"2",
+        "updateurl":"http://ipv4.download.thinkbroadband.com/200MB.zip",
+        "updateversion":"",
+        "versiontype":1
+    }]
 
 }
