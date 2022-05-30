@@ -1,5 +1,4 @@
 {
-    
     "applist": "{'ret':1,'retInfo':'info','appVersions':[{'packageName': 'np.com.livetv','type':1,'version':'1.0'}],'app_name': 'LiveTV','iFVersion':'123','params':[{'paramKey':'exInterval','paramValue':'100'},{'paramKey':'succInterval','paramValue':'100'}]}",
     "iFVersion": "",
     "param": [{
